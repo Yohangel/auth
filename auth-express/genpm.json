@@ -1,0 +1,29 @@
+{
+  "$": 1,
+  "n": "@yohangel/auth-express",
+  "v": "1.0.0",
+  "s": {
+    "en": "Better Auth for Express 5: mount the auth routes and protect APIs with requireAuth",
+    "es": "Better Auth para Express 5: monta las rutas de auth y protege APIs con requireAuth",
+    "pt-BR": "Better Auth para Express 5: monte as rotas de auth e proteja APIs com requireAuth",
+    "fr": "Better Auth pour Express 5 : monte les routes d’auth et protège les API avec requireAuth",
+    "de": "Better Auth für Express 5: Auth-Routen einbinden und APIs mit requireAuth schützen",
+    "ja": "Express 5 用 Better Auth：認証ルートをマウントし requireAuth で API を保護",
+    "zh-CN": "适用于 Express 5 的 Better Auth：挂载认证路由并用 requireAuth 保护 API",
+    "ko": "Express 5용 Better Auth: 인증 라우트 마운트와 requireAuth로 API 보호"
+  },
+  "d": "src/lib/auth-express",
+  "i": "auth-express",
+  "x": "AGENTS.md",
+  "l": "MIT",
+  "k": [
+    "auth",
+    "express",
+    "login",
+    "better-auth",
+    "api"
+  ],
+  "g": {
+    "@yohangel/auth": "^1.0.0"
+  }
+}

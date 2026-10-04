@@ -1,0 +1,45 @@
+{
+  "$": 1,
+  "n": "@yohangel/auth",
+  "v": "1.0.0",
+  "s": {
+    "en": "Secure login with Better Auth + Drizzle: email/password, GitHub/Google, 2FA, rate limits and CSRF",
+    "es": "Login seguro con Better Auth + Drizzle: email/contraseña, GitHub/Google, 2FA, límites y CSRF",
+    "pt-BR": "Login seguro com Better Auth + Drizzle: e-mail/senha, GitHub/Google, 2FA, limites e CSRF",
+    "fr": "Connexion sécurisée avec Better Auth + Drizzle : e-mail/mot de passe, GitHub/Google, 2FA, limites et CSRF",
+    "de": "Sicherer Login mit Better Auth + Drizzle: E-Mail/Passwort, GitHub/Google, 2FA, Rate-Limits und CSRF",
+    "ja": "Better Auth + Drizzle による安全なログイン：メール/パスワード、GitHub/Google、2FA、レート制限、CSRF",
+    "zh-CN": "基于 Better Auth + Drizzle 的安全登录：邮箱/密码、GitHub/Google、双重验证、限流与 CSRF 防护",
+    "ko": "Better Auth + Drizzle 기반 안전한 로그인: 이메일/비밀번호, GitHub/Google, 2FA, 속도 제한, CSRF"
+  },
+  "d": "src/lib/auth",
+  "i": "auth",
+  "x": "AGENTS.md",
+  "l": "MIT",
+  "k": [
+    "auth",
+    "login",
+    "better-auth",
+    "drizzle",
+    "2fa",
+    "oauth",
+    "security"
+  ],
+  "p": {
+    "better-auth": "^1.7.7",
+    "@better-auth/drizzle-adapter": "^1.7.7",
+    "drizzle-orm": "^0.45.3",
+    "postgres": "^3.4.9"
+  },
+  "e": [
+    "BETTER_AUTH_SECRET",
+    "BETTER_AUTH_URL",
+    "DATABASE_URL"
+  ],
+  "m": [
+    {
+      "n": "better-auth",
+      "u": "https://mcp.better-auth.com/mcp"
+    }
+  ]
+}

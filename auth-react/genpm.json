@@ -1,0 +1,29 @@
+{
+  "$": 1,
+  "n": "@yohangel/auth-react",
+  "v": "1.0.0",
+  "s": {
+    "en": "React login UI for Better Auth: sign-in with 2FA, sign-up, social buttons and session hooks",
+    "es": "UI de login en React para Better Auth: inicio de sesión con 2FA, registro, botones sociales y hooks",
+    "pt-BR": "UI de login em React para Better Auth: entrada com 2FA, cadastro, botões sociais e hooks",
+    "fr": "Interface de connexion React pour Better Auth : connexion avec 2FA, inscription, boutons sociaux et hooks",
+    "de": "React-Login-UI für Better Auth: Anmeldung mit 2FA, Registrierung, Social-Buttons und Hooks",
+    "ja": "Better Auth 用 React ログイン UI：2FA 付きサインイン、サインアップ、ソーシャルボタン、フック",
+    "zh-CN": "Better Auth 的 React 登录界面：支持双重验证的登录、注册、社交按钮和会话 Hook",
+    "ko": "Better Auth용 React 로그인 UI: 2FA 로그인, 회원가입, 소셜 버튼, 세션 훅"
+  },
+  "d": "src/lib/auth-react",
+  "i": "auth-react",
+  "x": "AGENTS.md",
+  "l": "MIT",
+  "k": [
+    "auth",
+    "react",
+    "login",
+    "better-auth",
+    "forms"
+  ],
+  "p": {
+    "better-auth": "^1.7.7"
+  }
+}

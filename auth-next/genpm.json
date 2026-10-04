@@ -1,0 +1,29 @@
+{
+  "$": 1,
+  "n": "@yohangel/auth-next",
+  "v": "1.0.0",
+  "s": {
+    "en": "Better Auth for Next.js App Router: route handler, proxy redirects and server session helpers",
+    "es": "Better Auth para Next.js App Router: route handler, redirecciones en proxy y sesión en servidor",
+    "pt-BR": "Better Auth para Next.js App Router: route handler, redirecionamentos no proxy e sessão no servidor",
+    "fr": "Better Auth pour Next.js App Router : route handler, redirections proxy et session côté serveur",
+    "de": "Better Auth für den Next.js App Router: Route-Handler, Proxy-Weiterleitungen und Server-Session",
+    "ja": "Next.js App Router 用 Better Auth：ルートハンドラー、proxy リダイレクト、サーバー側セッション",
+    "zh-CN": "适用于 Next.js App Router 的 Better Auth：路由处理器、proxy 重定向和服务端会话",
+    "ko": "Next.js App Router용 Better Auth: 라우트 핸들러, proxy 리디렉션, 서버 세션"
+  },
+  "d": "src/lib/auth-next",
+  "i": "auth-next",
+  "x": "AGENTS.md",
+  "l": "MIT",
+  "k": [
+    "auth",
+    "nextjs",
+    "login",
+    "better-auth",
+    "app-router"
+  ],
+  "g": {
+    "@yohangel/auth": "^1.0.0"
+  }
+}

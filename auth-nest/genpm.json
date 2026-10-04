@@ -1,0 +1,32 @@
+{
+  "$": 1,
+  "n": "@yohangel/auth-nest",
+  "v": "1.0.0",
+  "s": {
+    "en": "Better Auth for NestJS: global auth guard with @AllowAnonymous, @OptionalAuth and @Session",
+    "es": "Better Auth para NestJS: guard global con @AllowAnonymous, @OptionalAuth y @Session",
+    "pt-BR": "Better Auth para NestJS: guard global com @AllowAnonymous, @OptionalAuth e @Session",
+    "fr": "Better Auth pour NestJS : guard global avec @AllowAnonymous, @OptionalAuth et @Session",
+    "de": "Better Auth für NestJS: globaler Guard mit @AllowAnonymous, @OptionalAuth und @Session",
+    "ja": "NestJS 用 Better Auth：@AllowAnonymous、@OptionalAuth、@Session 付きグローバルガード",
+    "zh-CN": "适用于 NestJS 的 Better Auth：带 @AllowAnonymous、@OptionalAuth 和 @Session 的全局守卫",
+    "ko": "NestJS용 Better Auth: @AllowAnonymous, @OptionalAuth, @Session을 갖춘 전역 가드"
+  },
+  "d": "src/lib/auth-nest",
+  "i": "auth-nest",
+  "x": "AGENTS.md",
+  "l": "MIT",
+  "k": [
+    "auth",
+    "nestjs",
+    "login",
+    "better-auth",
+    "guard"
+  ],
+  "g": {
+    "@yohangel/auth": "^1.0.0"
+  },
+  "p": {
+    "@thallesp/nestjs-better-auth": "^2.8.0"
+  }
+}

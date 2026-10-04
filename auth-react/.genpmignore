@@ -1,0 +1,4 @@
+# No se inyecta en el proyecto de quien instala.
+*.test.ts
+*.test.tsx
+__fixtures__/
